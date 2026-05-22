@@ -9,10 +9,11 @@ And run the test with: python3 OopsmateTest.py, for the test, if all good, it wi
 
 ## Libraries Used
 This project only uses Python built-in libraries:
-random
-os
-time
-sys
+1. random
+2. os
+3. time
+4. sys
+
 No external libraries are needed. This project does not use GUI, web features, networking, audio, video or graphics libraries.
 
 ## Main Features
@@ -34,17 +35,17 @@ The messages in the program have four styles:
 
 ## Python Concepts Used
 This project uses:
-variables
-input and output
-if statements
-loops
-lists
-dictionaries
-functions
-classes and objects
-file input/output
-try-except
-testing
+1. variables
+2. input and output
+3. if statements
+4. loops
+5. lists
+6. dictionaries
+7. functions
+8. classes and objects
+9. file input/output
+10. try-except
+11. testing
 
 ## Files Created by the Program
 The program may create these text files when it runs:
