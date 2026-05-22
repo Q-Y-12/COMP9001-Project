@@ -1,1 +1,1 @@
-# COMP9001-Project
+# OopsMate: A Social Rescue Message Generator
