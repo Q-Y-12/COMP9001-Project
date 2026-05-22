@@ -13,8 +13,7 @@ random
 os
 time
 sys
-No external libraries are needed.
-This project does not use GUI, web features, networking, audio, video or graphics libraries.
+No external libraries are needed. This project does not use GUI, web features, networking, audio, video or graphics libraries.
 
 ## Main Features
 The user can:
@@ -51,7 +50,8 @@ testing
 The program may create these text files when it runs:
 1. favourites.txt  
 2. custom_templates.txt  
-3. history.txt  
+3. history.txt
+   
 These files are used to save favourite messages, custom templates and message history. They do not need to be created manually.
 
 ## Advanced Topics Used
