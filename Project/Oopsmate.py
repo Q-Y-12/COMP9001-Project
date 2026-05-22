@@ -57,12 +57,12 @@ def show_logo():
 ##Showing the main menu after each action.
 def show_menu():
     print("╭──────────── Main Menu ────────────╮")
-    print("│ 1. Generate a rescue message       │")
-    print("│ 2. View favourite messages         │")
-    print("│ 3. Add custom template             │")
-    print("│ 4. View message history            │")
-    print("│ 5. View usage statistics           │")
-    print("│ 6. Exit                            │")
+    print("│ 1. Generate a rescue message      │")
+    print("│ 2. View favourite messages        │")
+    print("│ 3. Add custom template            │")
+    print("│ 4. View message history           │")
+    print("│ 5. View usage statistics          │")
+    print("│ 6. Exit                           │")
     print("╰───────────────────────────────────╯")
 
 ##Getting a valid number choice from the user.
