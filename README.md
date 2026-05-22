@@ -27,11 +27,11 @@ The user can:
 7. view usage statistics
 
 ## Message Styles
-The messages in the program has four styles:
+The messages in the program have four styles:
 1. Chaotic: the excuse is ridiculous, random and mainly for fun.
 2. Honest: the excuse is polite, sincere, responsible and sounds like a real apology.
 3. Confused: the excuse sounds like the user is pretending not to understand what happened and should be short and slightly silly.
-4. Let it go: the excuse is lazy, careless and relaxed. People will not explain much and just accepts the situation.
+4. Let it go: the excuse is lazy, careless and relaxed. People will not explain much and just accept the situation.
 
 ## Python Concepts Used
 This project uses:
@@ -46,3 +46,16 @@ classes and objects
 file input/output
 try-except
 testing
+
+## Files Created by the Program
+The program may create these text files when it runs:
+1. favourites.txt  
+2. custom_templates.txt  
+3. history.txt  
+These files are used to save favourite messages, custom templates and message history. They do not need to be created manually.
+
+## Advanced Topics Used
+This project uses three advanced topics:
+1. Classes and Objects  
+2. File Input/Output  
+3. Testing  
